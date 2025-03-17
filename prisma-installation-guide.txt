@@ -1,0 +1,7 @@
+
+
+//1. install @prisma/client : npm i @prisma/client, npm i -D prisma
+//2. npx prisma init : generate the prisma schema folder and add your schema
+//3. create the prisma client : using npx prisma generate
+//4. sync the prisma schema with the database
+//5. generate prisma.js client and initalize client and wait for it await prisma.$connect in index.js

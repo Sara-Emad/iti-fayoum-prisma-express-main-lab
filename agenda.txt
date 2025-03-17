@@ -1,0 +1,41 @@
+//1. Middleware
+//2. Restful API
+//3. Routing
+//4. Error Handling
+//5. Database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+postgresql://fayoum_owner:npg_aSDIHuTx93RV@ep-steep-moon-a59ed0g2-pooler.us-east-2.aws.neon.tech/fayoum?sslmode=require
